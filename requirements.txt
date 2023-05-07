@@ -1,0 +1,7 @@
+streamlit
+sickit sklearn
+pickle
+pandas 
+numpy 
+
+
